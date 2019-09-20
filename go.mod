@@ -2,7 +2,7 @@ module github.com/dolan-in/dgman
 
 require (
 	github.com/davecgh/go-spew v1.1.1
-	github.com/dgraph-io/dgo v0.0.0-20181102011806-23d7ac35e2c7
+	github.com/dgraph-io/dgo v1.0.0
 	github.com/golang/protobuf v1.2.0
 	github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515
 	github.com/pkg/errors v0.8.0
