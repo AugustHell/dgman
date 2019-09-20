@@ -1,4 +1,4 @@
-module github.com/dolan-in/dgman
+module github.com/AugustHell/dgman
 
 require (
 	github.com/davecgh/go-spew v1.1.1
