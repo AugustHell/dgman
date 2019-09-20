@@ -8,9 +8,9 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/stretchr/testify v1.2.2
-	golang.org/x/net v0.0.0-20181102091132-c10e9556a7bc
-	golang.org/x/sys v0.0.0-20181031143558-9b800f95dbbc
+	golang.org/x/net v0.0.0-20190311183353-d8887717615a
+	golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a
 	golang.org/x/text v0.3.0
 	google.golang.org/genproto v0.0.0-20181101192439-c830210a61df
-	google.golang.org/grpc v1.16.0
+	google.golang.org/grpc v1.23.0
 )
